@@ -1,5 +1,5 @@
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@_apex._ae?si=HC8tcRLV_F84r0ga
 # Ask Doubt on telegram @KingVJ01
 
 
@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@_apex._ae?si=HC8tcRLV_F84r0ga
 # Ask Doubt on telegram @KingVJ01
 
 
@@ -26,7 +26,7 @@ def is_enabled(value, default):
         return default
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@_apex._ae?si=HC8tcRLV_F84r0ga
 # Ask Doubt on telegram @KingVJ01
       
 # Owner Information
@@ -41,7 +41,7 @@ DB_URI = environ.get("DB_URI", "mongodb+srv://Obito:YWntQsn1DF3nTyIA@cluster0.am
 DB_NAME = environ.get("DB_NAME", "Obito")
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@_apex._ae?si=HC8tcRLV_F84r0ga
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
@@ -58,7 +58,7 @@ LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002032001909"))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002102809197')).split()]
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@_apex._ae?si=HC8tcRLV_F84r0ga
 # Ask Doubt on telegram @KingVJ01
 
 # File Caption Information
@@ -70,7 +70,7 @@ PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@_apex._ae?si=HC8tcRLV_F84r0ga
 # Ask Doubt on telegram @KingVJ01
 
 # File Stream Config
@@ -101,6 +101,6 @@ class Var(object):
 
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@_apex._ae?si=HC8tcRLV_F84r0ga
 # Ask Doubt on telegram @KingVJ01
     
